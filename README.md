@@ -7,7 +7,7 @@ can be used in your projects (42 Login MOUGNOU).
 
 libft is an extension/remake of the standard library.
 
-## Getting Started
+## How to USE
 
 ```
 git clone https://github.com/MaroIsLife/Libft.git libft
@@ -17,11 +17,6 @@ make all
 
 This will produce a `libft.a` library which you can link to your project.
 
-## Unit Test
-
-```
-make test
-```
 
 ## .libftignore
 
