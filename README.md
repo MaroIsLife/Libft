@@ -1,7 +1,7 @@
 # Libft
 
 this project is basically a C library regrouping usual functions that
-can be used in your projects (42 Login MOUGNOU).
+can be used in your projects.
 
 # libft 
 
